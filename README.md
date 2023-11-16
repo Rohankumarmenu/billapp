@@ -11,7 +11,7 @@ You can checkout the bill
 You can save the bill for later
 
 
-While clicking n Supervisor
+While clicking Supervisor
 
 You can view summary of all the bills
 You can view all the clerks
