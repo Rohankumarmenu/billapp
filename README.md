@@ -6,9 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 While clicking Clerk
 
-Can add items to the bill
-Can checkout the bill
-Can save the bill for later
+You can add items to the bill
+You can checkout the bill
+You can save the bill for later
 
 
 While clicking n Supervisor
