@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Features
+
+While clicking Clerk
+
+Can add items to the bill
+Can checkout the bill
+Can save the bill for later
+
+
+While clicking n Supervisor
+
+You can view summary of all the bills
+You can view all the clerks
+You can check summary of payments
 ## Available Scripts
 
 In the project directory, you can run:
